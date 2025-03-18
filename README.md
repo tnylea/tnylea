@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tony Lea. I live in Bonita Springs, CA with my family. I love writing code, learning new things, and hitting up the gym 💪. I also like to write, watch movies, and spend time with my Fam.
+### Hi there 👋, my name is Tony. I live in Bonita Springs, CA with my family. I love writing code, learning new things, and hitting up the gym 💪. I also like to write, watch movies, and spend time with my Fam.
 
 I currently work at [Laravel](https://laravel.com) and I'm also building [DevDojo](https://devdojo.com) on the side.
 
